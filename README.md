@@ -2,7 +2,7 @@
 
 I’m Gagan — I enjoy trying out new things in tech and learning by building.
 
----
+
 
 ##  Projects
 
@@ -14,7 +14,6 @@ A command-line **Personal Finance Management System** written in C to track inco
 A MERN-based version control system with a terminal-style interface for managing repositories and commits.  
 **Tech:** MongoDB, Mongoose, Express.js, React, Node.js, Tailwind CSS, Zustand
 
----
 
 ## 🧰 Tech Stack
 
@@ -22,13 +21,11 @@ A MERN-based version control system with a terminal-style interface for managing
 ![React](https://img.shields.io/badge/react-%23007ACC.svg?style=flat&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-3C3C3C?style=flat&logo=react&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 
----
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-k-gagan-gowda-a28737314/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c.kgagangowda78@gmail.com)
 
----
 
 
 
