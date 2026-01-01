@@ -18,16 +18,16 @@ A MERN-based version control system with a terminal-style interface for managing
 
 ## 🧰 Tech Stack
 
-**Languages**  
-C · Python · JavaScript · TypeScript · HTML5 · CSS3
-
-**Technologies**  
-React · Node.js · Express.js · MongoDB · Zustand · NPM
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%23007ACC.svg?style=flat&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-3C3C3C?style=flat&logo=react&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boffin-Omega&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=SysRet8-BMS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SysRet8-BMS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SysRet8-BMS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boffin-Omega&layout=compact&theme=github_dark&hide_border=true)
 
