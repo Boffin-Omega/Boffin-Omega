@@ -4,7 +4,7 @@ I’m Gagan — I enjoy trying out new things in tech and learning by building.
 
 
 
-##  Projects
+## 🧩 Projects
 
 ### **FinManage**
 A command-line **Personal Finance Management System** written in C to track income, expenses, and financial transactions.  
