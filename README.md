@@ -24,15 +24,11 @@ A MERN-based version control system with a terminal-style interface for managing
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SysRet8-BMS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SysRet8-BMS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SysRet8-BMS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boffin-Omega&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-k-gagan-gowda-a28737314/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:c.kgagangowda78@gmail.com)
+
+---
+
+
+
